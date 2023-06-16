@@ -10,5 +10,8 @@ Hal-hal yang dibahas dalam laporan ini adalah sebagai berikut:
 4. Analisis respons sistem dengan kontrol LQR
 5. Analisis kestabilan dengan menggunakan Lyapunov
 6. Analisis performansi sistem
-7. Analisis respons sistem dengan variasi Q
-8. Analisis respons sistem dengan variasi R
+7. Analisis respons sistem dengan variasi matriks Q
+8. Analisis respons sistem dengan variasi matriks R
+9. Kesimpulan
+
+
