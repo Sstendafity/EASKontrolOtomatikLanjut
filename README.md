@@ -1,2 +1,1 @@
-# EASKontrolOtomatikLanjut
-Perancangan Sistem Kontrol LQR pada Sistem Suspensi Aktif
+# Perancangan Sistem Kontrol LQR pada Sistem Suspensi Aktif
